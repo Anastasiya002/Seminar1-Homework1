@@ -1,0 +1,15 @@
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\obj\Debug\net6.0\HW003.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\obj\Debug\net6.0\HW003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\obj\Debug\net6.0\HW003.AssemblyInfoInputs.cache
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\obj\Debug\net6.0\HW003.AssemblyInfo.cs
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\obj\Debug\net6.0\HW003.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\bin\Debug\net6.0\HW003.exe
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\bin\Debug\net6.0\HW003.deps.json
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\bin\Debug\net6.0\HW003.runtimeconfig.json
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\bin\Debug\net6.0\HW003.dll
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\bin\Debug\net6.0\HW003.pdb
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\obj\Debug\net6.0\HW003.dll
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\obj\Debug\net6.0\refint\HW003.dll
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\obj\Debug\net6.0\HW003.pdb
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\obj\Debug\net6.0\HW003.genruntimeconfig.cache
+C:\Users\Настя\Desktop\education Digital master\C#\Seminar1+Homework\HW003\obj\Debug\net6.0\ref\HW003.dll
